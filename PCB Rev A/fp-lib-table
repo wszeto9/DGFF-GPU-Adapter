@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DGFFAdapterLibrary_RevA")(type "KiCad")(uri "${KIPRJMOD}/Libraries/DGFFAdapterLibrary_RevA.pretty")(options "")(descr ""))
+)
